@@ -1,9 +1,8 @@
-## Hi I am Witnin there 👋
+## Hi I'm Witnin there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wsyhh&show_icons=true&theme=radical&hide=stars&count_private=true" width="420" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Witnin.+;A++Developer%F0%9F%A4%A3.;An+Open+Source+Contributor%F0%9F%98%8A.)](https://git.io/typing-svg)
 
 🌟 Passionate about clean code, intelligent systems, and making things work elegantly.  
-🧠 Tech Stack includes: Java, Spring Boot, Kotlin, Android, Vue, MySQL, Redis...  
 🎯 Focused on building digital evidence platforms, smart forensics, and responsive UIs.
 
 ---
@@ -11,27 +10,35 @@
 ## 🔧 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,androidstudio,vue,js,ts,html,css,mysql,redis,linux,idea,git" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,androidstudio,mysql,redis,linux,idea,git" />
 </p>
 
 ---
 
-## 🚀 Recent Activity
+## 🐍 Contribution Snake
 
-<!--START_SECTION:activity-->
-<!-- You can auto-update this section using GitHub Actions -->
-<!--END_SECTION:activity-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake.svg">
+</picture>
 
 ---
+## 📊 GitHub Stats
 
-## 📊 Stats & Streaks
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wsyhh&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsyhh&layout=compact&theme=radical&hide_border=true" />
-</p>
-
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Witnin&theme=vue-dark&layout=compact&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Witnin&theme=vue&layout=compact&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Witnin&theme=vue&layout=compact&hide_border=true">
+        </picture>
+      </td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 ## 🧭 About Me
@@ -42,12 +49,10 @@
 - ⚡ Fun fact: I named my pet **毛豆** and it's adorable 🐾
 
 ---
+### 📫 Contact
 
-## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
-
+- Wechat: Wsy690341321
+- Email: 690341321@qq.com
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=wsyhh&style=flat-square&color=blue)
