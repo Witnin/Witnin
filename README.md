@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👋 Hi there, I'm wsy HH!
+## Hi I am Witnin there 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wsyhh&show_icons=true&theme=radical&hide=stars&count_private=true" width="420" />
 
